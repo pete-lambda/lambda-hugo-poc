@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Lambda Documentation'
+theme = 'relearn'
+
+[outputs]
+  home = ['html', 'rss', 'search', 'searchpage']
+
+[params]
+  # Change default color scheme with a variant one.
+  themeVariant = "lambda"
+  alwaysopen = true
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 500
