@@ -2,7 +2,6 @@
 title = 'Workstations'
 tags = ["workstations", "Vector One"]
 date = 2024-06-05T21:22:35-07:00
-draft = true
 weight = 50
 +++
 

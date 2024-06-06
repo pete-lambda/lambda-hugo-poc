@@ -1,7 +1,6 @@
 +++
 title = 'On Demand Cloud'
 date = 2024-06-05T21:10:05-07:00
-draft = true
 weight = 10
 +++
 
