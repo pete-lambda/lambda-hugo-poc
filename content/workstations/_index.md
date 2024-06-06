@@ -15,7 +15,7 @@ quickstart guide.
 
 ## What are the buttons and ports at the front and top of my Vector One?
 
-![Vector One front and top buttons and ports](/images/vector-one-buttons.jpg?height=300px)
+![Vector One front and top buttons and ports](../images/vector-one-buttons.jpg?height=300px)
 _Vector One front and top buttons and ports_
 
 Your Vector One's power button is located at the front-top.
