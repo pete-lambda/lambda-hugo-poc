@@ -4,7 +4,7 @@ title = "Lambda Docs"
 weight = 1
 +++
 
-![Lambda Labs](/images/homepage-image.png)
+![Lambda Labs](images/homepage-image.png)
 {{% notice style="warning" title="Sales tax notice" icon="triangle-exclamation" %}}
 As of March 1, 2024, Lambda charges sales tax in jurisdictions it's
 required to do so. Keep your billing address up to date to ensure the tax
