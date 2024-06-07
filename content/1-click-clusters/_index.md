@@ -44,3 +44,24 @@ including NCCL, Open MPI, PyTorch with DDP and FSDP support, TensorFlow, OFED,
 and other popular libraries and frameworks for distributed ML workloads,
 allowing ML engineers and researchers to begin their large-scale experiments
 and other work immediately after launching a 1CC.
+
+## Look, Tabs!
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
+
