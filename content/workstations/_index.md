@@ -15,7 +15,7 @@ quickstart guide.
 
 ## What are the buttons and ports at the front and top of my Vector One?
 
-![Vector One front and top buttons and ports](../images/vector-one-buttons.jpg?height=300px)
+![Vector One front and top buttons and ports](/images/vector-one-buttons.jpg?height=300px)
 _Vector One front and top buttons and ports_
 
 Your Vector One's power button is located at the front-top.
@@ -108,7 +108,7 @@ sudo ipmitool raw 0x30 0x0E 0x04 0x06 0x32 0x23 0x49 0x46 0x5a 0x64 0x61 0x64 0x
 
 {{% notice style="tip" %}}
 See the
-[ASUS ASMB9-iKVM Fan Customized Mode User Guide [PDF]](../pdf/ASMB9-iKVM_Fan_Customized_Mode_User_Guide_v0.71_20191112.pdf)
+[ASUS ASMB9-iKVM Fan Customized Mode User Guide [PDF]](/pdf/ASMB9-iKVM_Fan_Customized_Mode_User_Guide_v0.71_20191112.pdf)
 to learn how to customize fan speeds in the web-based IPMI interface.
 
 Note that Lambda workstations are high-performance systems and generate
