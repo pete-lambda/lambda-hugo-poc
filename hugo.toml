@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Lambda Documentation'
 theme = 'relearn'
+enableGitInfo = true
 
 [outputs]
   home = ['html', 'rss', 'search', 'searchpage']
