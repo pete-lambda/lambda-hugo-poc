@@ -16,3 +16,7 @@ enableGitInfo = true
 name = "<i class='fas fa-tags'></i> Tags"
 url = "/tags"
 weight = 500
+
+[services]
+  [services.disqus]
+    shortname = 'lambda-labs-pete'
